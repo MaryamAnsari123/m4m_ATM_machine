@@ -1,0 +1,24 @@
+{
+  "name": "m4m_atm_machine",
+  "version": "2.0.4",
+  "description": "this is an atm machine",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "MaryamAnsari",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.16",
+    "m4m_atm_machine": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
